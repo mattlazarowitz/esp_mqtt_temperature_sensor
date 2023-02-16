@@ -2,6 +2,7 @@
 
 How it started:
 ![how it started](https://github.com/mattlazarowitz/esp_mqtt_temperature_sensor/blob/main/images/inital.jpg)
+
 How it's going:
 ![How its going](https://github.com/mattlazarowitz/esp_mqtt_temperature_sensor/blob/main/images/current.jpg)
 
